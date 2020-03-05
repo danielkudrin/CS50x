@@ -1,4 +1,0 @@
-string variable
-words variable - until ' '
-letters variable  !?.
-sentences variable
